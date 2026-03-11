@@ -22,13 +22,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjanagawh9443&show_icons=true&locale=en" alt="sanjanagawh9443" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjanagawh9443&" alt="sanjanagawh9443" /></p>
 
 
 
 
----
-[![](https://visitcount.itsvg.in/api?id=sanjanagawh9443&icon=0&color=7)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
